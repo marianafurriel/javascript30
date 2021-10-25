@@ -2,8 +2,8 @@
 
 ### Construindo 30 projetos em 30 dias com Javascript puro.
 
-## [Dia 1 - Drum Kit](#drumkit)
-## [Dia 2 - Relógio](#relogio)
+* [Dia 1 - Drum Kit](#drumkit)
+* [Dia 2 - Relógio](#relogio)
 
 
 
