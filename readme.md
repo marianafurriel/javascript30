@@ -15,7 +15,7 @@ Um kit de bateria com nove sons que tocam quando as teclas correspondentes são 
 
 ![](/screenshots/drumkit.png)
 
-### Dia 2 - Relógio(#relogio)
+### Dia 2 - Relógio
 [Código](https://github.com/marianafurriel/javascript30/tree/master/Clock) - [Live](https://marianafurriel.github.io/javascript30/Clock/)
 
 Um relógio de ponteiro simples usando setInterval e Date.
