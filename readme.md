@@ -10,22 +10,22 @@
 
 
 ### Dia 1 - Drum Kit
-[Código](https://github.com/marianafurriel/javascript30/tree/master/Drum%20kit) - [Live](https://marianafurriel.github.io/javascript30/Drum%20kit/)
+[Código](https://github.com/marianafurriel/javascript30/tree/master/dia1) - [Live](https://marianafurriel.github.io/javascript30/dia1/)
 
 Um kit de bateria com nove sons que tocam quando as teclas correspondentes são pressionadas no teclado. 
 
-![](/screenshots/drumkit.png)
+![](/screenshots/dia1.png)
 
 ### Dia 2 - Relógio
-[Código](https://github.com/marianafurriel/javascript30/tree/master/Clock) - [Live](https://marianafurriel.github.io/javascript30/Clock/)
+[Código](https://github.com/marianafurriel/javascript30/tree/master/dia2) - [Live](https://marianafurriel.github.io/javascript30/dia2/)
 
 Um relógio de ponteiro simples usando setInterval e Date.
 
-![](/screenshots/clock.png)
+![](/screenshots/dia2.png)
 
 ### Dia 3 - Manipulando variáveis CSS com Javascript
 [Código]() - [Live]()
 
 Mudando valores como blur, padding e cor utilizando inputs do tipo range e variáveis alteradas com Javascript.
 
-![]()
+![](/screenshots/dia3.png)
