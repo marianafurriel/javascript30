@@ -24,7 +24,7 @@ Um relógio de ponteiro simples usando setInterval e Date.
 ![](/screenshots/dia2.png)
 
 ### Dia 3 - Manipulando variáveis CSS com Javascript
-[Código]() - [Live]()
+[Código](https://github.com/marianafurriel/javascript30/tree/master/dia3) - [Live](https://marianafurriel.github.io/javascript30/dia3)
 
 Mudando valores como blur, padding e cor utilizando inputs do tipo range e variáveis alteradas com Javascript.
 
