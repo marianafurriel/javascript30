@@ -3,7 +3,8 @@
 ### Construindo 30 projetos em 30 dias com Javascript puro.
 
 [Dia 1 - Drum Kit](#dia-1---drum-kit)<br>
-[Dia 2 - Relógio](#dia-2---relógio)
+[Dia 2 - Relógio](#dia-2---relógio)<br>
+[Dia 3 - Manipulando variáveis CSS com Javascript](#dia-3---manipulando-variáveis-css-com-javascript)
 
 
 
@@ -22,4 +23,9 @@ Um relógio de ponteiro simples usando setInterval e Date.
 
 ![](/screenshots/clock.png)
 
+### Dia 3 - Manipulando variáveis CSS com Javascript
+[Código]() - [Live]()
 
+Mudando valores como blur, padding e cor utilizando inputs do tipo range e variáveis alteradas com Javascript.
+
+![]()
