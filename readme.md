@@ -29,3 +29,8 @@ Um relógio de ponteiro simples usando setInterval e Date.
 Mudando valores como blur, padding e cor utilizando inputs do tipo range e variáveis alteradas com Javascript.
 
 ![](/screenshots/dia3.png)
+
+### Dia 4 - Array Cardio
+[Código](https://github.com/marianafurriel/javascript30/tree/master/dia4) - [Live](https://marianafurriel.github.io/javascript30/dia4)
+
+Exercitando conceitos e funções de array.
