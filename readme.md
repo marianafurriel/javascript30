@@ -34,3 +34,10 @@ Mudando valores como blur, padding e cor utilizando inputs do tipo range e vari�
 [Código](https://github.com/marianafurriel/javascript30/tree/master/dia4) - [Live](https://marianafurriel.github.io/javascript30/dia4)
 
 Exercitando conceitos e funções de array.
+
+### Dia 5 - Flex Panels Image Gallery
+[Código](https://github.com/marianafurriel/javascript30/tree/master/dia5) - [Live](https://marianafurriel.github.io/javascript30/dia5)
+
+Galeria de imagens usando flexbox. As imagens aumentam quando são clicadas e novo texto surge.
+
+![](/screenshots/dia5.gif)
