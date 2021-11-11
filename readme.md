@@ -4,7 +4,9 @@
 
 [Dia 1 - Drum Kit](#dia-1---drum-kit)<br>
 [Dia 2 - Relógio](#dia-2---relógio)<br>
-[Dia 3 - Manipulando variáveis CSS com Javascript](#dia-3---manipulando-variáveis-css-com-javascript)
+[Dia 3 - Manipulando variáveis CSS com Javascript](#dia-3---manipulando-variáveis-css-com-javascript)<br>
+[Dia 4 - Array Cardio](#dia-4---array-cardio)<br>
+[Dia 5 - Galeria de imagem com painéis flex](#dia-5---galeria-de-imagem-com-painéis-flex)
 
 
 
@@ -35,7 +37,7 @@ Mudando valores como blur, padding e cor utilizando inputs do tipo range e vari�
 
 Exercitando conceitos e funções de array.
 
-### Dia 5 - Flex Panels Image Gallery
+### Dia 5 - Galeria de imagem com painéis flex
 [Código](https://github.com/marianafurriel/javascript30/tree/master/dia5) - [Live](https://marianafurriel.github.io/javascript30/dia5)
 
 Galeria de imagens usando flexbox. As imagens aumentam quando são clicadas e novo texto surge.
