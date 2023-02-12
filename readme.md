@@ -1,6 +1,6 @@
 # Javascript30
 
-### Construindo 30 projetos em 30 dias com Javascript puro.
+### Construindo 30 projetos em 30 dias com Javascript puro. Projetos feitos no curso [Javascript30](https://javascript30.com/)
 
 [Dia 1 - Drum Kit](#dia-1---drum-kit)<br>
 [Dia 2 - Relógio](#dia-2---relógio)<br>
